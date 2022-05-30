@@ -4,6 +4,7 @@
 <h3> Based on <b>Ionic React</b> and <b>Mapbox</b></h3>
 
 <b> Demo video </b>
+
   [![Demo video](https://img.youtube.com/vi/QgIazxW9C2g/hqdefault.jpg)](https://www.youtube.com/watch?v=QgIazxW9C2g)
   
   <i>To test, insert your own Mapbox token inside the variable of mapboxgl.accessToken in MapDetails.tsx (line 11).</i>
